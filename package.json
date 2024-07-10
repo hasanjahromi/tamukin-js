@@ -1,10 +1,10 @@
 {
     "name": "tamukin-js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An open-source library of JS components.",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Hasan J",
     "license": "MIT"
-  }
+}
